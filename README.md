@@ -1,7 +1,7 @@
 # Naglis123.github.io
-##First personal project - Website
+First personal project - Website
 
-###Work in progress...
+Work in progress...
 
 [Link to the Website!](https://naglis123.github.io)
 
